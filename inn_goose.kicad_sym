@@ -52,8 +52,8 @@
 		)
 		(symbol "AT28C64_1_1"
 			(rectangle
-				(start -8.89 19.05)
-				(end 8.89 -19.05)
+				(start -7.62 19.05)
+				(end 7.62 -19.05)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -63,7 +63,7 @@
 				)
 			)
 			(pin output line
-				(at -12.7 16.51 0)
+				(at -11.43 16.51 0)
 				(length 3.556)
 				(name "RDY/~{BSY}"
 					(effects
@@ -81,7 +81,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 13.97 0)
+				(at -11.43 13.97 0)
 				(length 3.556)
 				(name "A12"
 					(effects
@@ -99,7 +99,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 11.43 0)
+				(at -11.43 11.43 0)
 				(length 3.556)
 				(name "A7"
 					(effects
@@ -117,7 +117,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 8.89 0)
+				(at -11.43 8.89 0)
 				(length 3.556)
 				(name "A6"
 					(effects
@@ -135,7 +135,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 6.35 0)
+				(at -11.43 6.35 0)
 				(length 3.556)
 				(name "A5"
 					(effects
@@ -153,7 +153,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 3.81 0)
+				(at -11.43 3.81 0)
 				(length 3.556)
 				(name "A4"
 					(effects
@@ -171,7 +171,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 1.27 0)
+				(at -11.43 1.27 0)
 				(length 3.556)
 				(name "A3"
 					(effects
@@ -189,7 +189,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 -1.27 0)
+				(at -11.43 -1.27 0)
 				(length 3.556)
 				(name "A2"
 					(effects
@@ -207,7 +207,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 -3.81 0)
+				(at -11.43 -3.81 0)
 				(length 3.556)
 				(name "A1"
 					(effects
@@ -225,7 +225,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 -6.35 0)
+				(at -11.43 -6.35 0)
 				(length 3.556)
 				(name "A0"
 					(effects
@@ -243,7 +243,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -12.7 -8.89 0)
+				(at -11.43 -8.89 0)
 				(length 3.556)
 				(name "I/O0"
 					(effects
@@ -261,7 +261,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -12.7 -11.43 0)
+				(at -11.43 -11.43 0)
 				(length 3.556)
 				(name "I/O1"
 					(effects
@@ -279,7 +279,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -12.7 -13.97 0)
+				(at -11.43 -13.97 0)
 				(length 3.556)
 				(name "I/O2"
 					(effects
@@ -297,7 +297,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 -16.51 0)
+				(at -11.43 -16.51 0)
 				(length 3.556)
 				(name "GND"
 					(effects
@@ -315,7 +315,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 16.51 180)
+				(at 11.43 16.51 180)
 				(length 3.556)
 				(name "VCC"
 					(effects
@@ -333,7 +333,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 13.97 180)
+				(at 11.43 13.97 180)
 				(length 3.556)
 				(name "~{WE}"
 					(effects
@@ -351,7 +351,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 12.7 11.43 180)
+				(at 11.43 11.43 180)
 				(length 3.556)
 				(name "NC"
 					(effects
@@ -369,7 +369,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 8.89 180)
+				(at 11.43 8.89 180)
 				(length 3.556)
 				(name "A8"
 					(effects
@@ -387,7 +387,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 6.35 180)
+				(at 11.43 6.35 180)
 				(length 3.556)
 				(name "A9"
 					(effects
@@ -405,7 +405,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 3.81 180)
+				(at 11.43 3.81 180)
 				(length 3.556)
 				(name "A11"
 					(effects
@@ -423,7 +423,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 1.27 180)
+				(at 11.43 1.27 180)
 				(length 3.556)
 				(name "~{OE}"
 					(effects
@@ -441,7 +441,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 -1.27 180)
+				(at 11.43 -1.27 180)
 				(length 3.556)
 				(name "A10"
 					(effects
@@ -459,7 +459,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 -3.81 180)
+				(at 11.43 -3.81 180)
 				(length 3.556)
 				(name "~{CE}"
 					(effects
@@ -477,7 +477,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 -6.35 180)
+				(at 11.43 -6.35 180)
 				(length 3.556)
 				(name "I/O7"
 					(effects
@@ -495,7 +495,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 -8.89 180)
+				(at 11.43 -8.89 180)
 				(length 3.556)
 				(name "I/O6"
 					(effects
@@ -513,7 +513,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 -11.43 180)
+				(at 11.43 -11.43 180)
 				(length 3.556)
 				(name "I/O5"
 					(effects
@@ -531,7 +531,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 -13.97 180)
+				(at 11.43 -13.97 180)
 				(length 3.556)
 				(name "I/O4"
 					(effects
@@ -549,7 +549,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 -16.51 180)
+				(at 11.43 -16.51 180)
 				(length 3.556)
 				(name "I/O3"
 					(effects
@@ -569,7 +569,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "Arduino_Mega_2560_PinHeader"
+	(symbol "ArduinoMega_PinHeader"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -617,7 +617,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "Arduino_Mega_2560_PinHeader_1_1"
+		(symbol "ArduinoMega_PinHeader_1_1"
 			(rectangle
 				(start -2.54 22.86)
 				(end 2.54 -22.86)

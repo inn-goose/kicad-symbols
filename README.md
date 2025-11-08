@@ -2,8 +2,14 @@
 
 for KiCad v9
 
-Arduino connectors:
-* Arduino Mega PinHeader 2x18
+## Symbols
 
-EEPROM chips:
-* AT28C64
+### Arduino Connectors
+
+ArduinoMega_PinHeader
+![ArduinoMega_PinHeader](images/ArduinoMega_PinHeader.png)
+
+### EEPROM Chips
+
+AT28C64
+![AT28C64](images/AT28C64.png)
