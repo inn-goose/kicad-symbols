@@ -13,3 +13,6 @@ ArduinoMega_PinHeader
 
 AT28C64
 ![AT28C64](images/AT28C64.png)
+
+AT28C256
+![AT28C64](images/AT28C256.png)
